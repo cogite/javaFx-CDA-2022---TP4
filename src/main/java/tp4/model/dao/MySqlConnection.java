@@ -24,7 +24,7 @@ public class MySqlConnection {
     private static String url =
             "jdbc:mysql://localhost:3306/cda?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private static String user = "root";
-    private static String passwd = "29342908";
+    private static String passwd = "";
 
 
     /** * Objet Connection */
