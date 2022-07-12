@@ -2,7 +2,7 @@
 javaFx CDA 2022 - Projet existant
 
 
-# Script SQL création bdd :______________________________________________________________
+# Script SQL création bdd :________________________________
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -30,4 +30,4 @@ INSERT INTO `etudiant` (`id`, `Nom`, `Prenom`, `fil`) VALUES
 (15, 'b', 'b', 'b');
 COMMIT;
 
-# ______________________________________________________________________________________
+# _________________________________________________________
