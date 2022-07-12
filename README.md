@@ -29,5 +29,3 @@ INSERT INTO `etudiant` (`id`, `Nom`, `Prenom`, `fil`) VALUES
 (7, 'Thomas', 'André', 'JavaFX'),
 (15, 'b', 'b', 'b');
 COMMIT;
-
-# _________________________________________________________
