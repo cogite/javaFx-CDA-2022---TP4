@@ -2,6 +2,9 @@
 javaFx CDA 2022 - Projet existant
 
 
+Détails du TP dans TP4.pdf
+
+
 # Script SQL création bdd :________________________________
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
